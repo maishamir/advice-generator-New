@@ -1,0 +1,14 @@
+@use "../partials/variables" as *;
+
+
+
+@mixin quoteStyle {
+    font-family: "Manrope", sans-serif;
+    font-weight: 800;
+    font-size: 1.75rem;
+    letter-spacing: -0.3px;
+    color: $lightCyan;
+}
+
+
+
